@@ -12,7 +12,6 @@ This project involves web scraping of online pharmacies and stores using Seleniu
 ## Installation
 
 You can install the required libraries using pip:
-
 - pip install selenium beautifulsoup4 pandas webdriver_manager
 
 ## Working
